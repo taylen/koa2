@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "ejs": "^2.5.7",
+        "koa": "^2.4.1",
+        "koa-router": "^7.3.0",
+        "koa-views": "^6.1.3"
+    }
+}
